@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
+Thumbs.db
+# エンジンが読み込むたびに置く型（それぞれの PC で作り直される）
+.claude-plugin/types/
+
+# 作業の記録と、作るときの案の絵（本人の中身が入るので、リポには入れない。手元に残す）
+HANDOFF.md
+docs/

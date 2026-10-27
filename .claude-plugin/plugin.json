@@ -1,0 +1,15 @@
+{
+  "name": "soshiki-zu",
+  "version": "0.4.0",
+  "author": { "name": "taku3" },
+  "description": "右のペインに秘書のフォルダの組織図（本人→秘書→部門→係）と、いま動いている係・現場のセッション・記録のボタンを出す",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "charaFile": {
+      "type": "string",
+      "title": "ペットのキャラの JSON",
+      "description": "ペットのキャラを差しかえる JSON ファイルの絶対パス（形は README）。空なら既定のキャラ",
+      "default": ""
+    }
+  }
+}

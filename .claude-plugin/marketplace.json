@@ -1,0 +1,6 @@
+{
+  "name": "soshiki-zu",
+  "owner": { "name": "taku3" },
+  "metadata": { "description": "秘書のフォルダの組織図と、いま動いている係を右のペインに出す MOD" },
+  "plugins": [{ "name": "soshiki-zu", "source": "./" }]
+}
